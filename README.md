@@ -1,4 +1,4 @@
-# Configuração da devcontainer com Golang
+# Configuração da devcontainer com Golang 1.21
 
 Este repositório contém um ambiente de desenvolvimento configurado para trabalhar com a linguagem de programação Go (Golang) usando o Visual Studio Code e as devcontainer
 
@@ -22,7 +22,7 @@ git https://github.com/k-vanio/devcontainer-with-golang
 
 <br><br><br>             
 
-# Setting up devcontainer with Golang
+# Setting up devcontainer with Golang 1.21
 
 This repository contains a development environment configured for working with the Go programming language (Golang) using Visual Studio Code and devcontainer
 
