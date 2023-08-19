@@ -1,6 +1,6 @@
-# Configuração da devcontainer com Golang 1.21
+# Configuração do devcontainer com Golang 1.21
 
-Este repositório contém um ambiente de desenvolvimento configurado para trabalhar com a linguagem de programação Go (Golang) usando o Visual Studio Code e as devcontainer
+Este repositório contém um ambiente de desenvolvimento configurado para trabalhar com a linguagem de programação Go (Golang) usando o Visual Studio Code e o devcontainer
 
 ## Pré-requisitos
 
